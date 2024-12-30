@@ -1,7 +1,8 @@
 # React SSR Themes Example
 
-An example of a server-side rendered (SSR) React application. This project demonstrates how to implement theming with a
-cookie-based approach in an SSR environment, supporting:
+An example of a server-side rendered (SSR) React application. 
+
+This project demonstrates implementing themes with SSR:
 
 - Light, Dark, and System Themes
 - Cookie-Based Theme Management
