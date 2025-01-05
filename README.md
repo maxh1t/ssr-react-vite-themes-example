@@ -2,9 +2,11 @@
 
 An example of a server-side rendered (SSR) React application. 
 
-This project demonstrates implementing themes with SSR:
+This repository complements the article: [Setting Up Themes in SSR React Applications](https://dev.to/maxh1t/setting-up-themes-in-ssr-react-applications-eem)
 
-- Light, Dark, and System Themes
+## Features
+
+- Light, Dark and System Themes
 - Cookie-Based Theme Management
 - Production-Ready Setup
 
